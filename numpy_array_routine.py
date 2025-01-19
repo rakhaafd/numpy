@@ -5,11 +5,11 @@ my_arr = numpy.zeros((2, 4)) #membuat array berukuran 2 x 4 dengan elemen nya ad
 print(my_arr)
 
 #numpy.ones
-my_arr2 = numpy.ones((3, 5)) #membuat array berukuran 2 x 4 dengan elemen nya adalah 1
+my_arr2 = numpy.ones((3, 5)) #membuat array berukuran 3 x 5 dengan elemen nya adalah 1
 print(my_arr2)
 
 #numpy.empty
-my_arr3 = numpy.empty((3, 6)) #membuat array berukuran 2 x 4 dengan elemen nya adalah acak
+my_arr3 = numpy.empty((3, 6)) #membuat array berukuran 3 x 6 dengan elemen nya adalah acak
 print(my_arr3)
 
 #numpy.arange
